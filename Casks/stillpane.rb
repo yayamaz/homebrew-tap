@@ -7,7 +7,7 @@ cask "stillpane" do
   desc "Press both Option keys and the frontmost window lands in your next Claude Code message"
   homepage "https://github.com/yayamaz/stillpane"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "stillpane.app"
 
