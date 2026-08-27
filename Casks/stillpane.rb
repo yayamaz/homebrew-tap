@@ -1,6 +1,6 @@
 cask "stillpane" do
-  version "0.1.0"
-  sha256 "e24feb654948e7bd5cd00a091bfbd86ba3efbcde3927e003b6b4213fdea4faa6"
+  version "0.2.0"
+  sha256 "15d196256befde5895c3f26ff95275ac97cee250518a460b68a9ffafff6b14e3"
 
   url "https://github.com/yayamaz/stillpane/releases/download/v#{version}/stillpane-#{version}.dmg"
   name "stillpane"
